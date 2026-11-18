@@ -1,0 +1,20 @@
+DATA LOG
+*****************************************
+Customer Name: khfikhyf
+Product: Cozy Nights Monarch
+VAT: R 300.0
+COMMISSION: R 100.0
+TOTAL: R 2400.0
+*****************************************
+Customer Name: khfikhyf
+Product: Restonic Barbados
+VAT: R 300.0
+COMMISSION: R 100.0
+TOTAL: R 2400.0
+*****************************************
+Customer Name: khfikhyf
+Product: Sealy Phuket
+VAT: R 300.0
+COMMISSION: R 100.0
+TOTAL: R 2400.0
+*****************************************
